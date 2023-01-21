@@ -1,0 +1,73 @@
+0: exit | 1: StandardCard.cpp | 2: Deck.cpp | 3: Player.cpp | 4: GameManager.cpp | 5: Draw2.cpp | 6: WildCard.cpp 
+6
+WildCard.cpp Testing Starting
+Last Played Card: Yellow 4
+What colour do you pick? (Y, G, R, B)
+y
+Last Played Card (modified): Yellow [WILDCARD]
+0: exit | 1: StandardCard.cpp | 2: Deck.cpp | 3: Player.cpp | 4: GameManager.cpp | 5: Draw2.cpp | 6: WildCard.cpp 
+6
+WildCard.cpp Testing Starting
+Last Played Card: Yellow 4
+What colour do you pick? (Y, G, R, B)
+Y
+Last Played Card (modified): Yellow [WILDCARD]
+0: exit | 1: StandardCard.cpp | 2: Deck.cpp | 3: Player.cpp | 4: GameManager.cpp | 5: Draw2.cpp | 6: WildCard.cpp 
+6
+WildCard.cpp Testing Starting
+Last Played Card: Yellow 4
+What colour do you pick? (Y, G, R, B)
+g
+Last Played Card (modified): Green [WILDCARD]
+0: exit | 1: StandardCard.cpp | 2: Deck.cpp | 3: Player.cpp | 4: GameManager.cpp | 5: Draw2.cpp | 6: WildCard.cpp 
+6
+WildCard.cpp Testing Starting
+Last Played Card: Yellow 4
+What colour do you pick? (Y, G, R, B)
+G
+Last Played Card (modified): Green [WILDCARD]
+0: exit | 1: StandardCard.cpp | 2: Deck.cpp | 3: Player.cpp | 4: GameManager.cpp | 5: Draw2.cpp | 6: WildCard.cpp 
+6
+WildCard.cpp Testing Starting
+Last Played Card: Yellow 4
+What colour do you pick? (Y, G, R, B)
+b
+Last Played Card (modified): Blue [WILDCARD]
+0: exit | 1: StandardCard.cpp | 2: Deck.cpp | 3: Player.cpp | 4: GameManager.cpp | 5: Draw2.cpp | 6: WildCard.cpp 
+6
+WildCard.cpp Testing Starting
+Last Played Card: Yellow 4
+What colour do you pick? (Y, G, R, B)
+B
+Last Played Card (modified): Blue [WILDCARD]
+0: exit | 1: StandardCard.cpp | 2: Deck.cpp | 3: Player.cpp | 4: GameManager.cpp | 5: Draw2.cpp | 6: WildCard.cpp 
+6
+WildCard.cpp Testing Starting
+Last Played Card: Yellow 4
+What colour do you pick? (Y, G, R, B)
+r
+Last Played Card (modified): Red [WILDCARD]
+0: exit | 1: StandardCard.cpp | 2: Deck.cpp | 3: Player.cpp | 4: GameManager.cpp | 5: Draw2.cpp | 6: WildCard.cpp 
+6
+WildCard.cpp Testing Starting
+Last Played Card: Yellow 4
+What colour do you pick? (Y, G, R, B)
+R
+Last Played Card (modified): Red [WILDCARD
+0: exit | 1: StandardCard.cpp | 2: Deck.cpp | 3: Player.cpp | 4: GameManager.cpp | 5: Draw2.cpp | 6: WildCard.cpp 
+6
+WildCard.cpp Testing Starting
+Last Played Card: Yellow 4
+What colour do you pick? (Y, G, R, B)
+t
+Invalid Selection!
+0: exit | 1: StandardCard.cpp | 2: Deck.cpp | 3: Player.cpp | 4: GameManager.cpp | 5: Draw2.cpp | 6: WildCard.cpp 
+6
+WildCard.cpp Testing Starting
+Last Played Card: Yellow 4
+What colour do you pick? (Y, G, R, B)
+6
+Invalid Selection!
+Last Played Card (modified): Yellow [UNDEF]
+0: exit | 1: StandardCard.cpp | 2: Deck.cpp | 3: Player.cpp | 4: GameManager.cpp | 5: Draw2.cpp | 6: WildCard.cpp 
+0

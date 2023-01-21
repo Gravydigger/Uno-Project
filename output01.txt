@@ -1,0 +1,21 @@
+0: exit | 1: Card.cpp | 2: Deck.cpp | 3: Player.cpp
+Card.cpp Testing Starting
+Card1 (modified): Yellow 0
+Card.cpp Testing Finished
+
+0: exit | 1: Card.cpp | 2: Deck.cpp | 3: Player.cpp
+Card.cpp Testing Starting
+Card1 (modified): Red 2
+Card.cpp Testing Finished
+
+0: exit | 1: Card.cpp | 2: Deck.cpp | 3: Player.cpp
+Card.cpp Testing Starting
+Card1 (modified): Blue 3
+Card.cpp Testing Finished
+
+0: exit | 1: Card.cpp | 2: Deck.cpp | 3: Player.cpp
+Card.cpp Testing Starting
+Card1 (modified): Green 4
+Card.cpp Testing Finished
+
+0: exit | 1: Card.cpp | 2: Deck.cpp | 3: Player.cpp
